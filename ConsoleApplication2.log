@@ -1,0 +1,8 @@
+﻿  ConsoleApplication2.cpp
+D:\cpp_projects\ConsoleApplication2\ConsoleApplication2.cpp(23,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  3 of 137 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication2.vcxproj -> D:\cpp_projects\ConsoleApplication2\x64\Release\ConsoleApplication2.exe
